@@ -11,7 +11,7 @@ Documentação para configurar o React Native: [DOC - React Native.](https://rea
 # clonar o repositório
 git clone https://github.com/nivaldoandrade/desafio-conceitos-react-native
 
-# Instalar as dependência
+# Instalar as dependências
 yarn
 
 # Iniciar a aplicação
